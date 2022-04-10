@@ -43,7 +43,7 @@ class Quiz {
       var display_Answers = 380;
       fill("Blue");
       textSize(20);
-      text("*NOTE: Contestant who answered correct are highlighted in green color!",450,600);
+      text("*NOTE: Contestant who answered correct is highlighted in green color!",450,600);
 
       for(var plr in allContestants){
         debugger;
